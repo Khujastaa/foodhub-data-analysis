@@ -60,4 +60,23 @@ The dataset includes demographic and behavioral attributes such as:
 The Random Forest model yielded the best performance metrics and was selected as the final predictive model.
 
 ## Repository Contents
+Customer-Spending-Prediction/
+│
+├── FDS_Project_LearnerNotebook_FullCode.html # Main code notebook
+├── README.md # Project documentation
+├── LICENSE # MIT License
+└── .gitignore # File exclusions
+
+
+## How to Use
+
+1. Clone this repository  
+2. Open the `.html` file or run the original notebook  
+3. Install required Python libraries if needed  
+4. Follow the notebook to view EDA, modeling, and predictions
+
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for more details.
+
 
