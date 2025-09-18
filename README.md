@@ -1,5 +1,5 @@
 # foodhub-data-analysis
-## Customer Spending Prediction
+# Customer Spending Prediction
 
 ## Project Overview
 
